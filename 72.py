@@ -37,8 +37,9 @@ class Solution(object):
         return dp[-1][-1]
 
 if __name__ == '__main__':
-    word1 = "sea"
-    word2 = "ate"
-
-    wds= Solution()
-    print wds.minDistance(word1,word2)
+    print '#'*3
+    # word1 = "sea"
+    # word2 = "ate"
+    #
+    # wds= Solution()
+    # print wds.minDistance(word1,word2)
